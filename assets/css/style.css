@@ -1,0 +1,28 @@
+.submit-btn{
+    display: flex;
+    justify-content:center;
+    align-items:center
+}
+.wrap{
+    height:300px;
+    width:1000px;
+    overflow: scroll;
+    background-color:#fff;
+}
+.filter-btn{
+    display: flex;
+    justify-content:center;
+    align-items:flex-start;
+    top:10px;
+}
+.content{
+    display: flex;
+    justify-content:space-around;
+}
+.comment{
+    height:80px;
+    width:400px;
+    border-width: 1;
+    border-style: solid;
+    background-color:#fff;
+}
